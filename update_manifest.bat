@@ -1,2 +1,2 @@
-python script.py
+python main.py
 pause
